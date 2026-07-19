@@ -1,0 +1,24 @@
+# Blender automatic backups
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+
+# Blender temporary files
+*.blend.tmp
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+.env
+*.pem
+*.key
+credentials.json
